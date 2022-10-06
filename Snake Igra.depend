@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1497976773 source:c:\users\daeneryspc\desktop\c++\snake igra\main.cpp
+	<iostream>
+	<windows.h>
+	<ctime>
+	<conio.h>
+
